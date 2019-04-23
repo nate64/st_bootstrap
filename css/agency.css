@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Agency v5.0.3 (https://startbootstrap.com/template-overviews/agency)
+ * Start Bootstrap - Agency v5.0.7 (https://startbootstrap.com/template-overviews/agency)
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
@@ -86,18 +86,9 @@ section h3.section-subheading {
   box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
 }
 
-::-moz-selection {
-  background: #fed136;
-  text-shadow: none;
-}
-
 ::selection {
   background: #fed136;
   text-shadow: none;
-}
-
-img::-moz-selection {
-  background: transparent;
 }
 
 img::selection {
@@ -176,7 +167,7 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/falls.jpg");
+  background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
